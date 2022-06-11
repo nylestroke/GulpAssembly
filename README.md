@@ -1,14 +1,14 @@
-# Установка
-Уже должен быть установлен Node.js
+# Installation
+Node.js must already be installed
 
-# Глобальная установка Gulp
-Если ранее установка была произведена, то переходим к инициализации
+# Installing Gulp globally
+If the installation was done earlier, then proceed to the initialization
 
 ```
 npm install -g gulp-cli
 ```
 
-# Инициализация NPM
+# NPM initialization
 ```
 npm install
 ```
